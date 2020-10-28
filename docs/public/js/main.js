@@ -255,7 +255,7 @@ js_Browser.createXMLHttpRequest = function() {
 	throw new js__$Boot_HaxeError("Unable to create XMLHttpRequest object.");
 };
 var model_constants_App = function() { };
-model_constants_App.BUILD = "2018-02-24 22:07:37";
+model_constants_App.BUILD = "2018-02-26 00:40:29";
 model_constants_App.NAME = "[SkeletorBootstrap]";
 Main.main();
 })();
