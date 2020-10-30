@@ -1,0 +1,1 @@
+npm install autoprefixer browser-sync eslint eslint-config-standard eslint-plugin-promise eslint-plugin-standard imagemin-cli mkdirp node-sass npm-run-all onchange postcss-cli rimraf stylelint svg-sprite-generator svgo uglify-js
